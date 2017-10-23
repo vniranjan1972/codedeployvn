@@ -1,1 +1,1 @@
-service httpd stop
+sudo rm -f /var/www/html/index.html
